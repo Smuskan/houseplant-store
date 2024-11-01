@@ -1,5 +1,7 @@
 # Houseplant Store
 
+![Houseplant Store Output](https://github.com/Smuskan/houseplant-store/blob/main/output.png)
+
 Welcome to the **Houseplant Store**, your go-to online shop for a wide variety of beautiful houseplants. This project is designed to provide an intuitive and seamless shopping experience for plant enthusiasts, allowing users to browse, add to cart, and manage their purchases easily.
 
 ## Table of Contents
@@ -26,4 +28,3 @@ Welcome to the **Houseplant Store**, your go-to online shop for a wide variety o
 
 ## Installation
 To run the Houseplant Store locally, follow these steps:
-
